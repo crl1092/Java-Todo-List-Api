@@ -26,8 +26,8 @@ Para seguir as práticas recomendadas de mercado, as credenciais sensíveis do b
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com[seu-usuario]/[nome-do-repositorio].git
-cd [nome-do-repositorio]
+git clone https://github.com/crl1092/Java-Todo-List-Api.git
+cd Java-Todo-List-Api
 ```
 
 ### 2. Configurar o Banco de Dados
