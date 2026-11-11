@@ -1,0 +1,5 @@
+# Altere o nome deste arquivo para application.properties e preencha com seus dados locais
+spring.datasource.url=jdbc:postgresql://localhost:5432/SEU_BANCO_DE_DADOS
+spring.datasource.username=SEU_USUARIO
+spring.datasource.password=SUA_SENHA
+spring.jpa.hibernate.ddl-auto=update
