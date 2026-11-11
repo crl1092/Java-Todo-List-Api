@@ -5,8 +5,8 @@ Este é um mini projeto desenvolvido para consolidar meus estudos em **Spring Bo
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Java 17** (ou a versão que você usou)
-- **Spring Boot 3.x**
+- **Java 25** 
+- **Spring Boot 4.x**
 - **Spring Data JPA** (Persistência de dados)
 - **PostgreSQL** (Banco de dados)
 - **Maven** (Gerenciador de dependências)
